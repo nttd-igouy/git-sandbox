@@ -1,2 +1,2 @@
-test1-modified
+test1-modified added by master
 added by develop-hotfix1
